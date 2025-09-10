@@ -1,1 +1,1 @@
-https://github.com/jamfuryy/resume
+https://roadmap.sh/projects/single-page-cv
